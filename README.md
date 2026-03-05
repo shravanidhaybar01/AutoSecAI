@@ -28,3 +28,10 @@ This repo will grow step by step as I learn new things.
 - security basics
 
 Status: Learning + Building phase
+
+## Learning Goals
+- Understand how scanning works
+- Learn AI logic building
+- Connect AI with security
+- Learn automation flow
+- Build real projects while studying
