@@ -35,3 +35,12 @@ Status: Learning + Building phase
 - Connect AI with security
 - Learn automation flow
 - Build real projects while studying
+## Future Plan
+This project will later include:
+- better scanning logic
+- AI models
+- dashboards
+- cloud security
+- automation pipelines
+
+This is a long-term learning project.
